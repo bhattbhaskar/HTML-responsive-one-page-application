@@ -1,0 +1,159 @@
+@media screen and (max-width:1366px) {
+
+}
+@media screen and (min-width:1101px) and (max-width:1200px) {
+	#menu > ul > li > a {
+		font-size:14px;
+	}
+
+}
+
+@media screen and (min-width:1024px) and (max-width:1100px) {
+	#menu > ul > li > a {
+		font-size:14px;
+	}
+	.nav-menu {
+		margin-left:35px;
+	}
+
+}
+@media screen and (max-width:1024px) {
+
+}
+@media screen and (min-width:1000px) and (max-width:1023px) {
+	#menu > ul > li > a {
+		font-size:13px;
+	}
+	.nav-menu {
+		margin-left:35px;
+	}
+}
+@media screen and (max-width:999px) {
+	.banner {
+		padding:0;
+	}
+	.banner h1 {
+		font-size:40px;
+	}
+	.logo {
+		margin-top:10px;
+	}
+	.register_left {
+		width:100%;
+	}
+	.event_detail{
+		width:100%;
+		text-align:center;
+	}
+	.event_place {
+		width:100%;
+		text-align:center;
+	}
+	.register_right {
+		width:100%;
+		text-align:center;
+		margin:30px 0 10px 0;
+	}
+	.involved_part {
+		width:100%;
+		margin-right:0;
+		margin-bottom:50px;
+	}
+	.mission_part {
+		width:100%;
+		margin-right:0;
+		margin-bottom:80px;
+	}
+	.mission_part:last-child {
+		margin-bottom:0px;
+	}
+	.owl-pagination {
+		display:none;
+	}
+}
+
+@media screen and (max-width:800px) {
+	.blod_detail {
+		width:90%; margin:0 auto;
+		float:none;
+	}
+}
+@media screen and (max-width:767px) {
+
+
+}
+@media screen and (max-width:640px) {
+	header {
+		height:60px;
+		min-height:60px;
+	}
+	.logo {
+		width:150px;
+	}
+	.logo img {
+		width:100%;
+	}
+	.banner h1 {
+		font-size:30px;
+	}
+	.register_left {
+		width:100%;
+	}
+	.event_detail{
+		width:100%;
+		text-align:center;
+	}
+	.event_place {
+		width:100%;
+		text-align:center;
+	}
+	.register_right {
+		width:100%; text-align:center;
+		margin:30px 0 10px 0;
+	}
+	.involved_part {
+		width:100%;
+		margin-right:0;
+		margin-bottom:50px;
+	}
+	.involved_part:last-child {
+		margin-bottom:0px;
+	}
+	.mission_part {
+		width:100%;
+		margin-right:0;
+		margin-bottom:80px;
+	}
+	.mission_part:last-child {
+		margin-bottom:0px;
+	}
+	.owl-pagination {
+		display:none;
+	}
+	#owl-demo2 .owl-prev {
+		left:-25px;
+	}
+	#owl-demo2 .owl-next {
+		right:-25px;
+	}
+}
+
+@media screen and (max-width:480px) {
+	.owl-item {
+		float:none;
+		margin:0 auto;
+		display:table;
+		text-align:center;
+		width:100%;
+	}
+	#owl-demo .item {
+		margin:0 auto;
+	}
+}
+
+@media screen and (max-width:375px) {
+
+}
+@media screen and (max-width:320px) {
+
+}

@@ -2,8 +2,6 @@
 
 ## Description
 HTML one page responsive website template without usage of bootstrap. It is purely besed on HTML 5 and CSS 3.
-## Demo
-guruquest.net/world-clock
 
 ##  Screen Shots :-
 ##### Mobile Responsive View
